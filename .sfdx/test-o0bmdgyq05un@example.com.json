@@ -1,0 +1,13 @@
+{
+    "username": "test-o0bmdgyq05un@example.com",
+    "orgId": "00D2a00000012V2EAI",
+    "accessToken": "b11ef8cfcfd8d4b6141e08c5b23744d1f5819fe5d374dab631120988ad9877e6f43c19e45416125997c8c0db5fdc9bcd97741919cd3d0857802d7e72649835879cc71de00b45bb947ceb8e9230c4419a3688de8a8576289a0b4732dc96a2de507d4000c148eaee6883f72b75398a350e45c25ff64372:e3f2ffbd7914e1d963aa66de57036912",
+    "refreshToken": "ba8cc2ee9d8dc41a356bef2cf9f3add05215338fbabd76734d3d2a8e70d4cc115ffd5c5fabbeaa0ec34da2248bf81534614accf287db6551a45a4d03be41c29f89637832c02428affb4b33f2fcf176f944e0cbbbd39da2cacae6c0290f:862a060b91785eb5efe5c04e0c2e66a7",
+    "instanceUrl": "https://velocity-saas-1413-dev-ed.cs47.my.salesforce.com/",
+    "loginUrl": "https://CS47.salesforce.com",
+    "clientId": "PlatformCLI",
+    "createdOrgInstance": "CS47",
+    "created": "1573688902057",
+    "devHubUsername": "sansalesforce@mailinator.com",
+    "isDevHub": false
+}

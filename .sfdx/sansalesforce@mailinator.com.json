@@ -1,0 +1,10 @@
+{
+    "username": "sansalesforce@mailinator.com",
+    "orgId": "00D36000000rQkKEAU",
+    "accessToken": "1e58bff630f2e13013b2d73529f11009bc6d04aaa0a319ee3cf0015fb70516664d64b62b978b0e2c66bf1f0805b3796216cfe014f3330be66f5d968600b2882be93191f3a6ee2fdef36fa65075c7e68c256dc60fa703c9dd27efda54932d58dfd3e2bf9cf0043ddd7e90e5fa222239e5eea393d856c9:82cee7f152c01ad8f9dacb3e9f73a4a6",
+    "refreshToken": "a946c0cc124296a3531f2da85ad3e01dc8ca684a79a68be41d2fb4b93bc423422b6f950e28f69bbbab9307936f1d57c437eef4f28ef8cc1a2b4c6d635a3f11a00238b9a4af439523d3e936e9d5b5c2f95c06b53ce583629029a38bd02d:34ae852a41ed9c5cf6db03cb24780fdc",
+    "instanceUrl": "https://mynewsdfc-mahes-dev-ed.my.salesforce.com",
+    "loginUrl": "https://login.salesforce.com",
+    "clientId": "PlatformCLI",
+    "isDevHub": true
+}
